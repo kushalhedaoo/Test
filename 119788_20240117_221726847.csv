@@ -1,0 +1,4 @@
+Customer,SalesOrg,DistributionChannel,FulfillmentMethod,Time,Currency,UOM,Vendor,Store,RetailItemNumber,UPC,GTIN,Material,TCINNo,StoreCount,OnOrderQty,RetailerCost,RetailerPrice,WarehouseInv,OnhandInv,POSSales,POSSalesUnits,TotalInv,InStock,OutStock,unsellableOnHandUnits,unsellableOnHandUnitsAmount,sellableOnHandInventoryAmount,TotalInvValue
+119788,US01,00,,0023-12-30T00:00:00.000Z,USD,PC,,,B0B5M31FBM,0,,6065018,,0,,0,17,,,2769,161,4329,,,0,0,0,74449
+119788,US01,00,,0023-12-30T00:00:00.000Z,USD,PC,,,B09N4WZTC8,0,,6061031,,0,,0,14,,,1046,74,61,,,0,0,0,863
+119788,US01,00,,0023-12-30T00:00:00.000Z,USD,PC,,,B01DBDF3PO,0,,6049457,,0,,0,26,,,1165,44,1,,,0,0,0,26

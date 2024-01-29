@@ -1,0 +1,2 @@
+Customer,SalesOrg,DistributionChannel,FulfillmentMethod,Time,Currency,UOM,Vendor,Store,RetailItemNumber,UPC,GTIN,Material,TCINNo,StoreCount,OnOrderQty,RetailerCost,RetailerPrice,WarehouseInv,OnhandInv,POSSales,POSSalesUnits,TotalInv,InStock,OutStock,unsellableOnHandUnits,unsellableOnHandUnitsAmount,sellableOnHandInventoryAmount,TotalInvValue
+107091,MX01,00,,,MXN,PC,93893,1180,710193,0077898800814,,6019182,,0 ,0,281.00 ,343.97,0,2 ,0,0,2,0.00,0,0,0,0,653 
